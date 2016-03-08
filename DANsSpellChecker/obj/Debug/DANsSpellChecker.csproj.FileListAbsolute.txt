@@ -1,0 +1,14 @@
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\bin\Debug\DANsSpellChecker.exe.config
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\bin\Debug\DANsSpellChecker.exe
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\bin\Debug\DANsSpellChecker.pdb
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\obj\Debug\DANsSpellChecker.csprojResolveAssemblyReference.cache
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\obj\Debug\MainWindow.g.cs
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\obj\Debug\App.g.cs
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\obj\Debug\DANsSpellChecker_MarkupCompile.cache
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\obj\Debug\DANsSpellChecker_MarkupCompile.lref
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\obj\Debug\MainWindow.baml
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\obj\Debug\DANsSpellChecker.g.resources
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\obj\Debug\DANsSpellChecker.Properties.Resources.resources
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\obj\Debug\DANsSpellChecker.csproj.GenerateResource.Cache
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\obj\Debug\DANsSpellChecker.exe
+C:\Users\bruger\Documents\Visual Studio 2015\Projects\DAN's Spell Checker\DANsSpellChecker\obj\Debug\DANsSpellChecker.pdb

@@ -7,6 +7,16 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <Label x:Name="TitleLbl" Content="DAN's Spell Checker" HorizontalAlignment="Center"/>
+        <StackPanel HorizontalAlignment="Left" Margin="25, 100, 0, 0">
+            <DockPanel>
+                <Label x:Name="LanguageLbl" Content="Language: "/>
+                <ComboBox x:Name="LanguageCbx"  Width="200">
+                    <ComboBoxItem Name="cbi1">Dansk</ComboBoxItem>
+                    <ComboBoxItem Name="cbi2">English</ComboBoxItem>
+                </ComboBox>
+            </DockPanel>
+            <TextBox x:Name="InputTbx" Text="" Height="50" Margin="0, 50, 0, 0"/>
+        </StackPanel>
     </Grid>
 </Window>

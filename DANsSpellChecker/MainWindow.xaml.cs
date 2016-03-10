@@ -24,5 +24,14 @@ namespace DANsSpellChecker
         {
             InitializeComponent();
         }
+
+        private void TestBtn_Click(object sender, RoutedEventArgs e)
+        {
+            Controller controller = new Controller();
+
+            string output = controller.SpellCheckWord(InputTbx.Text);
+
+            OutputLbl.Content = output;
+        }
     }
 }

@@ -22,9 +22,14 @@ namespace DANsSpellChecker
 
             conn = new SqlConnection("server=" + server + ";Database=" + database + ";user=" + username + ";password=" + password + ";MultipleActiveResultSets=" + multipleActiveResult);
         }
-        public bool FindWord(string writtenWord)
+        public bool FindCorrectWord(string input)
         {
             return true;
+        }
+
+        public string FindSimilarWord(string input)
+        {
+            return "Test";
         }
     }
 }
